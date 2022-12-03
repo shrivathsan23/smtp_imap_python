@@ -1,6 +1,6 @@
 # smtp_imap_python
 
-Python Application which uses SMTP & IMAP to send and receive mails
+Python application which uses SMTP & IMAP to send and receive mails
 
 Currently single threaded.
 
